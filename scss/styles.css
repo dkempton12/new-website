@@ -1,0 +1,22 @@
+/* ---- reset ---- */
+body {
+  margin: 0;
+  font: normal 75% Arial, Helvetica, sans-serif;
+  z-index: 1; }
+
+canvas {
+  display: block;
+  vertical-align: bottom; }
+
+/* ---- particles.js container ---- */
+#particles-js {
+  width: 100%;
+  max-height: 50px;
+  z-index: 0 !important;
+  background: #1464f4;
+  background-image: url("");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%; }
+
+/*# sourceMappingURL=styles.css.map */
